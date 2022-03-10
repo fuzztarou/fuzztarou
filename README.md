@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ubukata
 - 👀 I’m interested in IoT, EdTech
-- 🌱 I’m currently learning Python, Java, AWS,,,,
+- 🌱 I’m currently learning Python, Java, JS, React AWS,,,,
 
 <!---
 fuzztarou/fuzztarou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
