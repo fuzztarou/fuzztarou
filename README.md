@@ -2,6 +2,10 @@
 
 Bacend engineer.
 
+### Personal Developments
+- [AI Running Coach](https://github.com/fuzztarou/run-coach)
+- [Stock Screening Tool](https://github.com/fuzztarou/my-screening-tool)
+
 ### Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
