@@ -3,8 +3,8 @@
 Bacend engineer.
 
 ### Personal Developments
-- [AI Running Coach](https://github.com/fuzztarou/run-coach)
-- [Stock Screening Tool](https://github.com/fuzztarou/my-screening-tool)
+- AI Running Coach: [run-coach](https://github.com/fuzztarou/run-coach)
+- Stock Screening Tool: [my-screening-tool](https://github.com/fuzztarou/my-screening-tool)
 
 ### Tech Stack
 
