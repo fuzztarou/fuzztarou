@@ -1,6 +1,6 @@
 ## Hi, I'm Ubukata
 
-Bacend engineer.
+Backend & Data engineer.
 
 ### Personal Developments
 - AI Running Coach: [run-coach](https://github.com/fuzztarou/run-coach)
