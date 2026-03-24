@@ -3,8 +3,10 @@
 Backend & Data engineer.
 
 ### Personal Developments
-- AI Running Coach: [run-coach](https://github.com/fuzztarou/run-coach)
-- Stock Screening Tool: [my-screening-tool](https://github.com/fuzztarou/my-screening-tool)
+| Project | Description |
+   | --- | --- |
+   | [run-coach](https://github.com/fuzztarou/run-coach) | AI-powered running coach agent|
+   | [my-screening-tool](https://github.com/fuzztarou/my-screening-tool) | Stock Screening Tool |
 
 ### Tech Stack
 
